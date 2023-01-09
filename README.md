@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtotheich
 - 👀 I’m interested in NLP, vision and other topics in deep learning
-- 🌱 I’m currently honing my Python and brushing up on some OOP classics (Java and C#)
-- 💞️ I’m looking to collaborate on any data science research projects.
+- 🌱 I’m currently honing my OOP and messing about in Python
+- 💞️ I’m looking to collaborate on data science, software engineering, and research projects.
 - 📫 Send me an e-mail at rtotheich@outlook.com
 
 <!---
