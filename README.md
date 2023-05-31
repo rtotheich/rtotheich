@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtotheich
-- 👀 I’m employed as a Research Assistant while simultaneously enrolled in a master's in CS at Northeastern University and deeply interested in the software engineering universe. Other interests include NLP, vision and various topics in deep learning
-- 🌱 I’m currently honing my OOP and messing about in C
-- 💞️ I’m looking to collaborate on data science, software engineering, and research projects.
+- 👀 I’m employed as a Research Assistant while simultaneously enrolled in a master's in CS at Northeastern University and deeply interested in the software engineering universe. Other interests include NLP, vision and various topics in deep learning.
+- 🌱 I’m currently fine tuning BERT on downstream tasks and building a strong foundation in machine learning methods.
+- 💞️ I’m looking to collaborate on interesting data science, software engineering, and research projects.
 - 📫 Send me an e-mail at rtotheich@outlook.com
 
 <!---
